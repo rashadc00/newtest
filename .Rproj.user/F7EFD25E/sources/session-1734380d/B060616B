@@ -3,7 +3,7 @@
     "path": "C:/Users/shado/OneDrive/Desktop/newtest/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3126254475",
     "contents": "",
     "dirty": false,
     "created": 1772744717465.0,
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "26:0"
+        "rmdVisualModeLocation": "155:0",
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1772744714,
+    "lastKnownWriteTime": 1772745242,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1772744714,
+    "last_content_update": 1772745242039,
     "read_only": false,
     "read_only_alternatives": []
 }
